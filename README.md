@@ -1,6 +1,6 @@
 # fog.js
 
-A fast JavaScript encryption library.
+🔐 A fast JavaScript encryption library.
 
 ## Status
 
